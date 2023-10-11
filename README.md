@@ -1,3 +1,12 @@
+**Для первоначальной загрузки, прописываем:**
+``` Bash
+git clone https://github.com/ExZuperi/CHRT-CTF-Club.git
+```
+**Для последующих синхронизаций, находясь в папке CHRT-CTF-Club, прописываем:**
+``` Bash
+git pull
+```
+
 **Скачать Obsidian для своей системы**
 https://obsidian.md/download
 
