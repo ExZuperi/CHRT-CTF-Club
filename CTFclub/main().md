@@ -26,4 +26,9 @@
 
 - [Домашнее задание **Обязательно**](http://94.241.143.236/register)
 
-- [Дополнительный материал](https://academy.hackthebox.com/module/details/18) - для понимания работы Web запросов. 
+- [Дополнительный материал](https://academy.hackthebox.com/module/details/18) - для понимания работы Web запросов.
+
+  # Лекция 5 - Хэши, SQL инъекции
+- [Презентация](https://1drv.ms/p/s!AjRWbQOSLgJWwX4i6ADoFS74ntyk?e=fEciIv)
+
+- [Домашнее задание **Обязательно**](https://academy.hackthebox.com/module/details/33)
